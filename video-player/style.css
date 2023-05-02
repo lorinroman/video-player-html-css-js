@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-left: 40px;
+  color: aliceblue;
+}
+body {
+  background-image: url('https://www.bistriteanul.ro/wp-content/uploads/2019/02/cinema-bistrita.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+h1 {
+  text-align: center;
+  margin-left: 40px;
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  font-size: 50px;
+}
+div {
+  color: white;
+}
+
+#drag-container {
+  display: flex;
+  justify-content: center;
+}
+
+#drag {
+  border: 2px solid white;
+  height: 200px;
+  width: 300px;
+}
+.selectat {
+  background-color: darkcyan;
+}
